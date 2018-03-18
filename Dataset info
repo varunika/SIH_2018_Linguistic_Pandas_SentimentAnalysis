@@ -1,0 +1,17 @@
+There is no API for quora or reddit
+I search for them and got the followind links that can be used as training data:
+for Quors:
+https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
+for reddit:
+http://files.pushshift.io/reddit/
+https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+
+My views on using quora/reddit forthe project:
+
+I do not think it would be possible for us to use the above two because-
+
+1. Both do not support fetching live streaming data unlike Twiiter, so you would not be able to analyse fresh data
+
+2. The dataset offered by Quora contains pairs of similar questions, and Questions do not give certainity about the emotion/sentiment, rather it displays the intent to know the real sentiment of the people through its answers.
+
+3. Reddit's data can be used, however, Reddit it self cannot be given as an option for extracting information
