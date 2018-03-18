@@ -17,4 +17,10 @@ I do not think it would be possible for us to use the above two because-
 3. Reddit's data can be used, however, Reddit it self cannot be given as an option for extracting information
 
 Also, Facebook data might contain images as posts, so I suggest extracting only Facebook comments instead of posts, since there would be less of useless data
-as discuddionson facebook take place in the form of comments only even when the post contains photographs. ( I Hope you guys get what i am trying to say :P)
+as discussions at facebook take place in the form of comments only even when the post contains photographs. ( I Hope you guys get what i am trying to say :P)
+
+However, If you still want live data from Quora/reddit
+It can still be done.
+We can use a web scrapper to do that.
+However this might violate Quora's policy and stuff like that.
+so we must keep everything in mind before doing that.
