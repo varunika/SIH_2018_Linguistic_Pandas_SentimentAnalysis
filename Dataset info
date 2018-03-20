@@ -10,6 +10,11 @@ My views on using quora/reddit forthe project:
 
 I do not think it would be possible for us to use the above two because-
 
+POPLI: I too believe that we should focus only on twitter as our main motive is to work on insights and things that haven't been worked on yet.
+We should emphasize on completing the project as soon as possible.
+
+
+
 1. Both do not support fetching live streaming data unlike Twiiter, so you would not be able to analyse fresh data
 
 2. The dataset offered by Quora contains pairs of similar questions, and Questions do not give certainity about the emotion/sentiment, rather it displays the intent to know the real sentiment of the people through its answers.
@@ -24,3 +29,6 @@ It can still be done.
 We can use a web scrapper to do that.
 However this might violate Quora's policy and stuff like that.
 so we must keep everything in mind before doing that.
+
+
+POPLI: I got a dataset with 9 classes of 40k tweets.
