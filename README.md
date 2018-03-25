@@ -16,6 +16,11 @@ Taks to-do:
 <br/>
 <br/>
 
+**Potential solutions for sentimental analysis that have excellent, and proven results**
+
+https://github.com/cbaziotis/datastories-semeval2017-task4
+https://github.com/bfelbo/DeepMoji
+
 **Working**
 <br/>
 1. We input modi in our system
